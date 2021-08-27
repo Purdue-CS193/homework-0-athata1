@@ -1,4 +1,4 @@
-#Akhil's First CS 193 Homework
+# Akhil's First CS 193 Homework
 
 Favorite things about CS 193
 - I am learning about how Github works.
